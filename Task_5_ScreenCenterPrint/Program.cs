@@ -1,4 +1,5 @@
 ﻿using System;
+using MyLib;
 
 namespace Task_5_ScreenCenterPrint
 {
@@ -13,24 +14,6 @@ namespace Task_5_ScreenCenterPrint
             в) *Сделать задание б с использованием собственных методов (например, Print(string ms, int x,int y).
          */
 
-        static void Print(string msg)
-        {
-            int x = Console.WindowWidth / 2 - msg.Length / 2;
-            int y = Console.WindowHeight / 2;
-
-            Console.SetCursorPosition(x, y);
-            Console.WriteLine(msg);
-        }
-        static void Print(string msg, int x, int y)
-        {
-            Console.SetCursorPosition(x, y);
-            Console.WriteLine(msg);
-        }
-        static void Pause()
-        {
-            Console.ReadKey();
-        }
-
         static void Main(string[] args)
         {
             Console.WriteLine("Программа вывода сообщения. В том числе в центр экрана.\n");
@@ -39,8 +22,8 @@ namespace Task_5_ScreenCenterPrint
             string nameAndCity = Console.ReadLine();
 
             Console.Clear();
-            Print(nameAndCity);
-            Pause();
+            MyMethods.PrintScreenCenter(nameAndCity);
+            MyMethods.Pause();
 
         }
     }
