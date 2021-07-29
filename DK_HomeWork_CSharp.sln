@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2_NumberDigitQuantity"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3_SumOddPositiveNumbers", "Task_3_SumOddPositiveNumbers\Task_3_SumOddPositiveNumbers.csproj", "{C739D8EA-BE73-4159-87E5-CEAAD3D85F6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4_Authorization", "Task_4_Authorization\Task_4_Authorization.csproj", "{228FBA08-512B-49D0-8496-36EC32833714}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{C739D8EA-BE73-4159-87E5-CEAAD3D85F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C739D8EA-BE73-4159-87E5-CEAAD3D85F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C739D8EA-BE73-4159-87E5-CEAAD3D85F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228FBA08-512B-49D0-8496-36EC32833714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228FBA08-512B-49D0-8496-36EC32833714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228FBA08-512B-49D0-8496-36EC32833714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228FBA08-512B-49D0-8496-36EC32833714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,6 +86,7 @@ Global
 		{222977D5-E672-4146-8E90-A7CCEAECF6BB} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
 		{1EBD9D23-D9C1-42C8-93DA-5F5A45AE8088} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
 		{C739D8EA-BE73-4159-87E5-CEAAD3D85F6F} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
+		{228FBA08-512B-49D0-8496-36EC32833714} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {97A31556-E067-4D60-91B4-208355B4A289}
