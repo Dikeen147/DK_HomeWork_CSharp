@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webinar_2", "webinar_2", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1_MinOfThreeNumbers", "Task_1_MinOfThreeNumbers\Task_1_MinOfThreeNumbers.csproj", "{222977D5-E672-4146-8E90-A7CCEAECF6BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2_NumberDigitQuantity", "Task_2_NumberDigitQuantity\Task_2_NumberDigitQuantity.csproj", "{1EBD9D23-D9C1-42C8-93DA-5F5A45AE8088}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{222977D5-E672-4146-8E90-A7CCEAECF6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{222977D5-E672-4146-8E90-A7CCEAECF6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{222977D5-E672-4146-8E90-A7CCEAECF6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EBD9D23-D9C1-42C8-93DA-5F5A45AE8088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBD9D23-D9C1-42C8-93DA-5F5A45AE8088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBD9D23-D9C1-42C8-93DA-5F5A45AE8088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBD9D23-D9C1-42C8-93DA-5F5A45AE8088}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +72,7 @@ Global
 		{FA17552A-6848-4BDD-9125-5DD6D1902788} = {92899A17-A160-48E1-9264-D7E6A3D23927}
 		{6B81486A-CF69-4B9A-9F5E-BE966275C331} = {92899A17-A160-48E1-9264-D7E6A3D23927}
 		{222977D5-E672-4146-8E90-A7CCEAECF6BB} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
+		{1EBD9D23-D9C1-42C8-93DA-5F5A45AE8088} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {97A31556-E067-4D60-91B4-208355B4A289}
