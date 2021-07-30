@@ -19,13 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLib", "MyLib\MyLib.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webinar_2", "webinar_2", "{C54C370F-9DD6-4F81-A922-D85A16A3B840}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1_MinOfThreeNumbers", "Task_1_MinOfThreeNumbers\Task_1_MinOfThreeNumbers.csproj", "{222977D5-E672-4146-8E90-A7CCEAECF6BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_1_MinOfThreeNumbers", "Task_1_MinOfThreeNumbers\Task_1_MinOfThreeNumbers.csproj", "{222977D5-E672-4146-8E90-A7CCEAECF6BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2_NumberDigitQuantity", "Task_2_NumberDigitQuantity\Task_2_NumberDigitQuantity.csproj", "{1EBD9D23-D9C1-42C8-93DA-5F5A45AE8088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_2_NumberDigitQuantity", "Task_2_NumberDigitQuantity\Task_2_NumberDigitQuantity.csproj", "{1EBD9D23-D9C1-42C8-93DA-5F5A45AE8088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3_SumOddPositiveNumbers", "Task_3_SumOddPositiveNumbers\Task_3_SumOddPositiveNumbers.csproj", "{C739D8EA-BE73-4159-87E5-CEAAD3D85F6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_3_SumOddPositiveNumbers", "Task_3_SumOddPositiveNumbers\Task_3_SumOddPositiveNumbers.csproj", "{C739D8EA-BE73-4159-87E5-CEAAD3D85F6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4_Authorization", "Task_4_Authorization\Task_4_Authorization.csproj", "{228FBA08-512B-49D0-8496-36EC32833714}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_4_Authorization", "Task_4_Authorization\Task_4_Authorization.csproj", "{228FBA08-512B-49D0-8496-36EC32833714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_5_BodyMassIndexVersion2", "Task_5_BodyMassIndexVersion2\Task_5_BodyMassIndexVersion2.csproj", "{C694A2A6-F7A2-4221-8212-4F2B3DE9B101}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +75,10 @@ Global
 		{228FBA08-512B-49D0-8496-36EC32833714}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{228FBA08-512B-49D0-8496-36EC32833714}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{228FBA08-512B-49D0-8496-36EC32833714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C694A2A6-F7A2-4221-8212-4F2B3DE9B101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C694A2A6-F7A2-4221-8212-4F2B3DE9B101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C694A2A6-F7A2-4221-8212-4F2B3DE9B101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C694A2A6-F7A2-4221-8212-4F2B3DE9B101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -87,6 +93,7 @@ Global
 		{1EBD9D23-D9C1-42C8-93DA-5F5A45AE8088} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
 		{C739D8EA-BE73-4159-87E5-CEAAD3D85F6F} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
 		{228FBA08-512B-49D0-8496-36EC32833714} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
+		{C694A2A6-F7A2-4221-8212-4F2B3DE9B101} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {97A31556-E067-4D60-91B4-208355B4A289}
