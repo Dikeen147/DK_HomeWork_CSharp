@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_5_BodyMassIndexVersion
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_6_GoodNumbers", "Task_6_GoodNumbers\Task_6_GoodNumbers.csproj", "{C18E7354-BA79-4320-88C1-BF763BE3CCA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7_RecursiveNumbersOutput", "Task_7_RecursiveNumbersOutput\Task_7_RecursiveNumbersOutput.csproj", "{A1325A2B-F5A9-4204-B5EA-B3C53FD67233}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,10 @@ Global
 		{C18E7354-BA79-4320-88C1-BF763BE3CCA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C18E7354-BA79-4320-88C1-BF763BE3CCA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C18E7354-BA79-4320-88C1-BF763BE3CCA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1325A2B-F5A9-4204-B5EA-B3C53FD67233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1325A2B-F5A9-4204-B5EA-B3C53FD67233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1325A2B-F5A9-4204-B5EA-B3C53FD67233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1325A2B-F5A9-4204-B5EA-B3C53FD67233}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,6 +107,7 @@ Global
 		{228FBA08-512B-49D0-8496-36EC32833714} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
 		{C694A2A6-F7A2-4221-8212-4F2B3DE9B101} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
 		{C18E7354-BA79-4320-88C1-BF763BE3CCA2} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
+		{A1325A2B-F5A9-4204-B5EA-B3C53FD67233} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {97A31556-E067-4D60-91B4-208355B4A289}
