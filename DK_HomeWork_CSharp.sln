@@ -37,6 +37,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webinar_3", "webinar_3", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1_structComplex", "Task_1_structComplex\Task_1_structComplex.csproj", "{64915377-0C39-483B-97A1-D5DF9164EF5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2_SumOddPositiveNumbers", "Task_2_SumOddPositiveNumbers\Task_2_SumOddPositiveNumbers.csproj", "{C6703BB6-025E-4219-BACA-541D27FE574F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{64915377-0C39-483B-97A1-D5DF9164EF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64915377-0C39-483B-97A1-D5DF9164EF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64915377-0C39-483B-97A1-D5DF9164EF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6703BB6-025E-4219-BACA-541D27FE574F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6703BB6-025E-4219-BACA-541D27FE574F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6703BB6-025E-4219-BACA-541D27FE574F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6703BB6-025E-4219-BACA-541D27FE574F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -117,6 +123,7 @@ Global
 		{C18E7354-BA79-4320-88C1-BF763BE3CCA2} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
 		{A1325A2B-F5A9-4204-B5EA-B3C53FD67233} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
 		{64915377-0C39-483B-97A1-D5DF9164EF5B} = {D180BA11-C351-40E3-A160-20650F159625}
+		{C6703BB6-025E-4219-BACA-541D27FE574F} = {D180BA11-C351-40E3-A160-20650F159625}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {97A31556-E067-4D60-91B4-208355B4A289}
