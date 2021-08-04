@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DistanceBetweenPoints
+namespace W1_T3_DistanceBetweenPoints
 {
     class Program
     {

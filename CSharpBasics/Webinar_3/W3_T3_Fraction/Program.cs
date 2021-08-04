@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task_3_Fraction
+namespace W3_T3_Fraction
 {
     /*
          Работа Долгова Константина

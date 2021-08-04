@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task_4_ExchangeOfValues
+namespace W1_T4_ExchangeOfValues
 {
     class Program
     {

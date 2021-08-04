@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task_7_RecursiveNumbersOutput
+namespace W2_T7_RecursiveNumbersOutput
 {
     class Program
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task_1_MinOfThreeNumbers
+namespace W2_T1_MinOfThreeNumbers
 {
     class Program
     {

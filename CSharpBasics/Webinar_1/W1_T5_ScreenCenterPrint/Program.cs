@@ -1,7 +1,7 @@
 ﻿using System;
 using MyLib;
 
-namespace Task_5_ScreenCenterPrint
+namespace W1_T5_ScreenCenterPrint
 {
     class Program
     {
