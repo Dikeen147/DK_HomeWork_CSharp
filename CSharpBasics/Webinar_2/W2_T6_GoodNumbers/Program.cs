@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task_6_GoodNumbers
+namespace W2_T6_GoodNumbers
 {
     class Program
     {

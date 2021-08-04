@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task_2_NumberDigitQuantity
+namespace W2_T2_NumberDigitQuantity
 {
     class Program
     {

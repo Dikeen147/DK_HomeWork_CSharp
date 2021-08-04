@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task_5_BodyMassIndexVersion2
+namespace W2_T5_BodyMassIndexVersion2
 {
     class Program
     {

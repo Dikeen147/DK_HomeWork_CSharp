@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task_1_structComplex
+namespace W3_T1_structComplex
 {
     /*
      Работа Долгова Константина

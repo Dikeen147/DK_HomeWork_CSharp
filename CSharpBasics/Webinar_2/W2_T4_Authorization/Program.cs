@@ -1,7 +1,7 @@
 ﻿using System;
 using MyLib;
 
-namespace Task_4_Authorization
+namespace W2_T4_Authorization
 {
     class Program
     {

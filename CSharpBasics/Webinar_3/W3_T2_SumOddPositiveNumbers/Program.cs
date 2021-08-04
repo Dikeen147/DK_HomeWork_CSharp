@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task_2_SumOddPositiveNumbers
+namespace W3_T2_SumOddPositiveNumbers
 {
     class Program
     {
