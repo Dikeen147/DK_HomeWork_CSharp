@@ -3,35 +3,43 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Questionnaire", "Questionnaire\Questionnaire.csproj", "{7DD93815-2E31-4653-B522-E10CBEC73703}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W1_T1_Questionnaire", "Questionnaire\W1_T1_Questionnaire.csproj", "{7DD93815-2E31-4653-B522-E10CBEC73703}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BodyMassIndex", "BodyMassIndex\BodyMassIndex.csproj", "{9CFAEB03-5A19-479E-99D0-72D558A95F37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W1_T2_BodyMassIndex", "BodyMassIndex\W1_T2_BodyMassIndex.csproj", "{9CFAEB03-5A19-479E-99D0-72D558A95F37}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistanceBetweenPoints", "DistanceBetweenPoints\DistanceBetweenPoints.csproj", "{27660D2E-2CC3-4951-AABE-CA7C2828248E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W1_T3_DistanceBetweenPoints", "DistanceBetweenPoints\W1_T3_DistanceBetweenPoints.csproj", "{27660D2E-2CC3-4951-AABE-CA7C2828248E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webinar_1", "webinar_1", "{92899A17-A160-48E1-9264-D7E6A3D23927}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_4_ExchangeOfValues", "Task_4_ExchangeOfValues\Task_4_ExchangeOfValues.csproj", "{FA17552A-6848-4BDD-9125-5DD6D1902788}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W1_T4_ExchangeOfValues", "Task_4_ExchangeOfValues\W1_T4_ExchangeOfValues.csproj", "{FA17552A-6848-4BDD-9125-5DD6D1902788}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_5_ScreenCenterPrint", "Task_5_ScreenCenterPrint\Task_5_ScreenCenterPrint.csproj", "{6B81486A-CF69-4B9A-9F5E-BE966275C331}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W1_T5_ScreenCenterPrint", "Task_5_ScreenCenterPrint\W1_T5_ScreenCenterPrint.csproj", "{6B81486A-CF69-4B9A-9F5E-BE966275C331}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLib", "MyLib\MyLib.csproj", "{8FCFBB30-D5A3-480A-A5D6-C0CDF8A8B4B6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webinar_2", "webinar_2", "{C54C370F-9DD6-4F81-A922-D85A16A3B840}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_1_MinOfThreeNumbers", "Task_1_MinOfThreeNumbers\Task_1_MinOfThreeNumbers.csproj", "{222977D5-E672-4146-8E90-A7CCEAECF6BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W2_T1_MinOfThreeNumbers", "Task_1_MinOfThreeNumbers\W2_T1_MinOfThreeNumbers.csproj", "{222977D5-E672-4146-8E90-A7CCEAECF6BB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_2_NumberDigitQuantity", "Task_2_NumberDigitQuantity\Task_2_NumberDigitQuantity.csproj", "{1EBD9D23-D9C1-42C8-93DA-5F5A45AE8088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W2_T2_NumberDigitQuantity", "Task_2_NumberDigitQuantity\W2_T2_NumberDigitQuantity.csproj", "{1EBD9D23-D9C1-42C8-93DA-5F5A45AE8088}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_3_SumOddPositiveNumbers", "Task_3_SumOddPositiveNumbers\Task_3_SumOddPositiveNumbers.csproj", "{C739D8EA-BE73-4159-87E5-CEAAD3D85F6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W2_T3_SumOddPositiveNumbers", "Task_3_SumOddPositiveNumbers\W2_T3_SumOddPositiveNumbers.csproj", "{C739D8EA-BE73-4159-87E5-CEAAD3D85F6F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_4_Authorization", "Task_4_Authorization\Task_4_Authorization.csproj", "{228FBA08-512B-49D0-8496-36EC32833714}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W2_T4_Authorization", "Task_4_Authorization\W2_T4_Authorization.csproj", "{228FBA08-512B-49D0-8496-36EC32833714}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_5_BodyMassIndexVersion2", "Task_5_BodyMassIndexVersion2\Task_5_BodyMassIndexVersion2.csproj", "{C694A2A6-F7A2-4221-8212-4F2B3DE9B101}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W2_T5_BodyMassIndexVersion2", "Task_5_BodyMassIndexVersion2\W2_T5_BodyMassIndexVersion2.csproj", "{C694A2A6-F7A2-4221-8212-4F2B3DE9B101}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_6_GoodNumbers", "Task_6_GoodNumbers\Task_6_GoodNumbers.csproj", "{C18E7354-BA79-4320-88C1-BF763BE3CCA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W2_T6_GoodNumbers", "Task_6_GoodNumbers\W2_T6_GoodNumbers.csproj", "{C18E7354-BA79-4320-88C1-BF763BE3CCA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7_RecursiveNumbersOutput", "Task_7_RecursiveNumbersOutput\Task_7_RecursiveNumbersOutput.csproj", "{A1325A2B-F5A9-4204-B5EA-B3C53FD67233}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W2_T7_RecursiveNumbersOutput", "Task_7_RecursiveNumbersOutput\W2_T7_RecursiveNumbersOutput.csproj", "{A1325A2B-F5A9-4204-B5EA-B3C53FD67233}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webinar_3", "webinar_3", "{D180BA11-C351-40E3-A160-20650F159625}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W3_T1_structComplex", "Task_1_structComplex\W3_T1_structComplex.csproj", "{64915377-0C39-483B-97A1-D5DF9164EF5B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W3_T2_SumOddPositiveNumbers", "Task_2_SumOddPositiveNumbers\W3_T2_SumOddPositiveNumbers.csproj", "{C6703BB6-025E-4219-BACA-541D27FE574F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W3_T3_Fraction", "Task_3_Fraction\W3_T3_Fraction.csproj", "{9E7CDFF7-4D80-42B9-B491-9E25542373F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +99,18 @@ Global
 		{A1325A2B-F5A9-4204-B5EA-B3C53FD67233}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1325A2B-F5A9-4204-B5EA-B3C53FD67233}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1325A2B-F5A9-4204-B5EA-B3C53FD67233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64915377-0C39-483B-97A1-D5DF9164EF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64915377-0C39-483B-97A1-D5DF9164EF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64915377-0C39-483B-97A1-D5DF9164EF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64915377-0C39-483B-97A1-D5DF9164EF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6703BB6-025E-4219-BACA-541D27FE574F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6703BB6-025E-4219-BACA-541D27FE574F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6703BB6-025E-4219-BACA-541D27FE574F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6703BB6-025E-4219-BACA-541D27FE574F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7CDFF7-4D80-42B9-B491-9E25542373F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7CDFF7-4D80-42B9-B491-9E25542373F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7CDFF7-4D80-42B9-B491-9E25542373F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7CDFF7-4D80-42B9-B491-9E25542373F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -108,6 +128,9 @@ Global
 		{C694A2A6-F7A2-4221-8212-4F2B3DE9B101} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
 		{C18E7354-BA79-4320-88C1-BF763BE3CCA2} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
 		{A1325A2B-F5A9-4204-B5EA-B3C53FD67233} = {C54C370F-9DD6-4F81-A922-D85A16A3B840}
+		{64915377-0C39-483B-97A1-D5DF9164EF5B} = {D180BA11-C351-40E3-A160-20650F159625}
+		{C6703BB6-025E-4219-BACA-541D27FE574F} = {D180BA11-C351-40E3-A160-20650F159625}
+		{9E7CDFF7-4D80-42B9-B491-9E25542373F0} = {D180BA11-C351-40E3-A160-20650F159625}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {97A31556-E067-4D60-91B4-208355B4A289}
