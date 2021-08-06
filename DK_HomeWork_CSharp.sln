@@ -53,6 +53,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W4_T2_TaskOneInStaticClass"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W4_T4_AuthorizationFromFile", "CSharpBasics\Webinar_4\W4_T4_AuthorizationFromFile\W4_T4_AuthorizationFromFile.csproj", "{BD317067-0DA4-4D57-9F52-729AB9D24672}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W4_T5_TestingMyLib", "CSharpBasics\Webinar_4\W4_T5_TestingMyLib\W4_T5_TestingMyLib.csproj", "{A33F6C08-0DBF-4C64-9ADC-E72198C099A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{BD317067-0DA4-4D57-9F52-729AB9D24672}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD317067-0DA4-4D57-9F52-729AB9D24672}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD317067-0DA4-4D57-9F52-729AB9D24672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A33F6C08-0DBF-4C64-9ADC-E72198C099A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33F6C08-0DBF-4C64-9ADC-E72198C099A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33F6C08-0DBF-4C64-9ADC-E72198C099A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33F6C08-0DBF-4C64-9ADC-E72198C099A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -164,6 +170,7 @@ Global
 		{1EDD096B-B393-43A6-9704-C19F038BB637} = {2BBDACDB-67C8-4EBB-982B-65B44B3AFD9C}
 		{A44ADB21-73A2-4266-878F-70CF94B26546} = {2BBDACDB-67C8-4EBB-982B-65B44B3AFD9C}
 		{BD317067-0DA4-4D57-9F52-729AB9D24672} = {2BBDACDB-67C8-4EBB-982B-65B44B3AFD9C}
+		{A33F6C08-0DBF-4C64-9ADC-E72198C099A9} = {2BBDACDB-67C8-4EBB-982B-65B44B3AFD9C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {97A31556-E067-4D60-91B4-208355B4A289}
