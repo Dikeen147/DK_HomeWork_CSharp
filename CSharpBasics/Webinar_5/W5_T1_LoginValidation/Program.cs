@@ -31,9 +31,9 @@ namespace W5_T1_LoginValidation
 
                 for (int i = 0; i < this.login.Length; i++)
                 {
-                    cond = ((int)this.login[i] >= 48 && (int)this.login[i] <= 57) 
-                        || ((int)this.login[i] >= 65 && (int)this.login[i] <= 90)
-                        || ((int)this.login[i] >= 97 && (int)this.login[i] <= 122);
+                    cond = (this.login[i] >= '0' && this.login[i] <= '9') 
+                        || (this.login[i] >= 'A' && this.login[i] <= 'Z')
+                        || (this.login[i] >= 'a' && this.login[i] <= 'z');
 
                     if (!cond) return false;
                 }
