@@ -61,6 +61,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Webinar_5", "Webinar_5", "{
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W5_T1_LoginValidation", "CSharpBasics\Webinar_5\W5_T1_LoginValidation\W5_T1_LoginValidation.csproj", "{3158CD08-D045-4715-94C7-1E6BB4D10B20}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W5_T2_StaticClassMessage", "CSharpBasics\Webinar_5\W5_T2_StaticClassMessage\W5_T2_StaticClassMessage.csproj", "{51609089-FA68-4AE6-BCE2-CFC777033A15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -155,6 +157,10 @@ Global
 		{3158CD08-D045-4715-94C7-1E6BB4D10B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3158CD08-D045-4715-94C7-1E6BB4D10B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3158CD08-D045-4715-94C7-1E6BB4D10B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51609089-FA68-4AE6-BCE2-CFC777033A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51609089-FA68-4AE6-BCE2-CFC777033A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51609089-FA68-4AE6-BCE2-CFC777033A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51609089-FA68-4AE6-BCE2-CFC777033A15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -188,6 +194,7 @@ Global
 		{0E5B6A16-0F45-420C-A003-0E0DABE8AB6C} = {2BBDACDB-67C8-4EBB-982B-65B44B3AFD9C}
 		{5E2B82DC-64C6-4E26-AA80-0E8B1809DDEB} = {081C841B-9807-4D97-B395-83B59D0E7F1D}
 		{3158CD08-D045-4715-94C7-1E6BB4D10B20} = {5E2B82DC-64C6-4E26-AA80-0E8B1809DDEB}
+		{51609089-FA68-4AE6-BCE2-CFC777033A15} = {5E2B82DC-64C6-4E26-AA80-0E8B1809DDEB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {97A31556-E067-4D60-91B4-208355B4A289}
