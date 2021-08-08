@@ -65,6 +65,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W5_T2_StaticClassMessage", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W5_T3_IsAnagram", "CSharpBasics\Webinar_5\W5_T3_IsAnagram\W5_T3_IsAnagram.csproj", "{3A135837-7CFE-4E0C-A70C-8E1CA37A5781}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W5_T4_TheWorstStudents", "CSharpBasics\Webinar_5\W5_T4_TheWorstStudents\W5_T4_TheWorstStudents.csproj", "{523B4BE9-FDC4-43C3-812E-D80B06AA58C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,10 @@ Global
 		{3A135837-7CFE-4E0C-A70C-8E1CA37A5781}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A135837-7CFE-4E0C-A70C-8E1CA37A5781}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A135837-7CFE-4E0C-A70C-8E1CA37A5781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523B4BE9-FDC4-43C3-812E-D80B06AA58C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523B4BE9-FDC4-43C3-812E-D80B06AA58C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523B4BE9-FDC4-43C3-812E-D80B06AA58C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523B4BE9-FDC4-43C3-812E-D80B06AA58C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -202,6 +208,7 @@ Global
 		{3158CD08-D045-4715-94C7-1E6BB4D10B20} = {5E2B82DC-64C6-4E26-AA80-0E8B1809DDEB}
 		{51609089-FA68-4AE6-BCE2-CFC777033A15} = {5E2B82DC-64C6-4E26-AA80-0E8B1809DDEB}
 		{3A135837-7CFE-4E0C-A70C-8E1CA37A5781} = {5E2B82DC-64C6-4E26-AA80-0E8B1809DDEB}
+		{523B4BE9-FDC4-43C3-812E-D80B06AA58C6} = {5E2B82DC-64C6-4E26-AA80-0E8B1809DDEB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {97A31556-E067-4D60-91B4-208355B4A289}
