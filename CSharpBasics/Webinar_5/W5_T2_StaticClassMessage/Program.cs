@@ -7,7 +7,7 @@ namespace W5_T2_StaticClassMessage
 {
     /*
      Работа Долгова Константина
-
+    
     Вебинар 5. Задача 2.
     Разработать статический класс Message, содержащий следующие статические методы 
     для обработки текста:
@@ -22,6 +22,34 @@ namespace W5_T2_StaticClassMessage
      */
     public static class Message
     {
+        /// <summary>
+        /// Метод анализирует текст и записывает в частотный массив, сколько раз повторяются указанные слова
+        /// </summary>
+        /// <param name="words"> Список слов для поиска в тексте </param>
+        /// <param name="text"> Исходный текст </param>
+        /// <returns> Частотный массив с количеством вхождений каждого слова в текст </returns>
+        public static Dictionary<string, int> TextFreqAnalis(string[] words, string text)
+        {
+            char[] separator = new char[] { ' ', ',', '.', '!', '?', ':', ';' };
+            Dictionary<string, int> list = new Dictionary<string, int>();
+            List<string> textWords = text.ToLower().Split(separator).Where(w => w != "").ToList();
+
+            foreach (var item in words)
+                list.Add(item, 0);
+
+            for (int i = 0; i < words.Length; i++)
+            {
+                foreach (var item in textWords)
+                {
+                    if (words[i].CompareTo(item) == 0)
+                    {
+                        list[words[i]]++;
+                    }
+                }
+            }
+            
+            return list;
+        }
         /// <summary>
         /// Метод возвращает список строк, слова которого не больше указанного значения
         /// </summary>
@@ -124,6 +152,17 @@ namespace W5_T2_StaticClassMessage
             // Строка из длинных слов
             Console.WriteLine("\nСтрока из длинных слов:");
             Console.WriteLine(Message.MaxWordsLine(str));
+
+            //
+            Console.WriteLine("\nЧастотный анализ текста:");
+            string text = "test testing asdag Test kasd test, asdkl asd asd asd Asd aSd asfef";
+            var list = Message.TextFreqAnalis(new string[] { "test", "asd" }, text);
+            Console.WriteLine($"Исходный текст:\n{text}");
+
+            foreach (var item in list)
+            {
+                Console.WriteLine($"слово: {item.Key} в тексте встречается: {item.Value} раз");
+            }
         }
     }
 }
