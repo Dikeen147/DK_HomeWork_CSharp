@@ -134,7 +134,7 @@ namespace W5_T4_TheWorstStudents
                 item.Show();
 
             // Массив средних оценок студентов
-            double[] avergareMarks = students.Select(st => st.AverageMark).ToArray();
+            double[] avergareMarks = students.Select(st => st.AverageMark).Distinct().ToArray();
             Array.Sort(avergareMarks);
             // Получение списка студентов с плохими оценками
             var worstStudents = students.Where(st => st.AverageMark <= avergareMarks[2]);
