@@ -27,7 +27,11 @@ namespace W3_T2_SumOddPositiveNumbers
 
             do
             {
-                flag = int.TryParse(Console.ReadLine(), out number);
+                var t = Console.ReadLine();
+                
+                flag = int.TryParse(t, out number);
+
+                if(flag && int.Parse(t) == 0) break;
                 if (isOdd(number) && number > 0)
                 {
                     sum += number;
@@ -36,7 +40,7 @@ namespace W3_T2_SumOddPositiveNumbers
                 {
                     Console.WriteLine("Ошибка! Введите целое число!");
                 }
-            } while (number != 0);
+            } while (true);
 
             Console.WriteLine("Сумма нечетных положительных чисел равна: " + sum);
         }
