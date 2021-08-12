@@ -2,6 +2,14 @@
 
 namespace W6_T1_DelegateFunc
 {
+    /*
+     Работа Долгова Константина
+
+    Вебинар 6. Задача 1.
+    Изменить программу вывода таблицы функции так, чтобы можно было передавать 
+    функции типа double (double, double). Продемонстрировать работу на функции 
+    с функцией a*x^2 и функцией a*sin(x).
+     */
     class DelegateFunc
     {
         public delegate double Fun(double a, double x);
