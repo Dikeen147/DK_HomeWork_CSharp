@@ -73,6 +73,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W6_T1_DelegateFunc", "CShar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W6_T2_DoubleBinary", "CSharpBasics\Webinar_6\W6_T2_DoubleBinary\W6_T2_DoubleBinary.csproj", "{7D004AA8-64F4-4A02-A364-760F5EDEC209}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W6_T3_Student", "CSharpBasics\Webinar_6\W6_T3_Student\W6_T3_Student.csproj", "{EAD79631-4C8E-4BA6-B30B-10DD64F4C6D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -187,6 +189,10 @@ Global
 		{7D004AA8-64F4-4A02-A364-760F5EDEC209}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D004AA8-64F4-4A02-A364-760F5EDEC209}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D004AA8-64F4-4A02-A364-760F5EDEC209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD79631-4C8E-4BA6-B30B-10DD64F4C6D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD79631-4C8E-4BA6-B30B-10DD64F4C6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD79631-4C8E-4BA6-B30B-10DD64F4C6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD79631-4C8E-4BA6-B30B-10DD64F4C6D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -226,6 +232,7 @@ Global
 		{A213C25A-7C3E-49D2-AEB6-28E1EA83A70A} = {081C841B-9807-4D97-B395-83B59D0E7F1D}
 		{E9146361-43D3-4AAE-A786-8ADD1DDB01ED} = {A213C25A-7C3E-49D2-AEB6-28E1EA83A70A}
 		{7D004AA8-64F4-4A02-A364-760F5EDEC209} = {A213C25A-7C3E-49D2-AEB6-28E1EA83A70A}
+		{EAD79631-4C8E-4BA6-B30B-10DD64F4C6D2} = {A213C25A-7C3E-49D2-AEB6-28E1EA83A70A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {97A31556-E067-4D60-91B4-208355B4A289}
