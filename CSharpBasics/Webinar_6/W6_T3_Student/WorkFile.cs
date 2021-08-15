@@ -107,9 +107,11 @@ namespace W6_T3_Student
             Console.WriteLine($"Количество студентов 5 и 6 курсов: {studentInCourse}");
 
             // Частотный массив
-            var dictionary = new Dictionary<int, int>() {
-                { 1, 0 }, { 2, 0 }, { 3, 0 }, { 4, 0 }, { 5, 0 }, { 6, 0 }
-            };
+            var dictionary = new Dictionary<int, int>();
+
+            for (int i = 1; i <= 6; i++)
+                dictionary.Add(i, 0);
+            
             foreach (var item in list)
                 if (item.age >= 18 && item.age <= 20) dictionary[item.course]++;
 
