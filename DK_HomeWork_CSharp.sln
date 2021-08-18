@@ -81,6 +81,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Webinar_7", "Webinar_7", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W7_T1_Doubler", "CSharpBasics\Webinar_7\W7_T1_Doubler\W7_T1_Doubler.csproj", "{47505DB2-BB24-4AEF-859B-A9DCA47CD1C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W7_T2_GuessTheNumber", "CSharpBasics\Webinar_7\W7_T2_GuessTheNumber\W7_T2_GuessTheNumber.csproj", "{2239B720-C653-41C3-9BCE-8122A35D7EB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{47505DB2-BB24-4AEF-859B-A9DCA47CD1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47505DB2-BB24-4AEF-859B-A9DCA47CD1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47505DB2-BB24-4AEF-859B-A9DCA47CD1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2239B720-C653-41C3-9BCE-8122A35D7EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2239B720-C653-41C3-9BCE-8122A35D7EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2239B720-C653-41C3-9BCE-8122A35D7EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2239B720-C653-41C3-9BCE-8122A35D7EB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -250,6 +256,7 @@ Global
 		{813E7785-04B4-44EC-BBAF-A97A44B84232} = {A213C25A-7C3E-49D2-AEB6-28E1EA83A70A}
 		{2139BBCF-2803-492C-BB1C-1C897C17CE45} = {081C841B-9807-4D97-B395-83B59D0E7F1D}
 		{47505DB2-BB24-4AEF-859B-A9DCA47CD1C9} = {2139BBCF-2803-492C-BB1C-1C897C17CE45}
+		{2239B720-C653-41C3-9BCE-8122A35D7EB5} = {2139BBCF-2803-492C-BB1C-1C897C17CE45}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {97A31556-E067-4D60-91B4-208355B4A289}
