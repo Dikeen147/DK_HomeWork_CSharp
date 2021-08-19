@@ -4,5 +4,8 @@
     {
         string Number { set; }
         string MultiCmdCount { set; }
+        string Random { set; }
+        string Steps { get; set; }
+        string StepText { set; }
     }
 }
