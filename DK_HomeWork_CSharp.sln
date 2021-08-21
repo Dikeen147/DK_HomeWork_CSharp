@@ -89,6 +89,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W8_T1_DateTimeReflection", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8_T2_TextBoxAndNumericUpDown", "CSharpBasics\Webinar_8\W8_T2_TextBoxAndNumericUpDown\W8_T2_TextBoxAndNumericUpDown.csproj", "{67588F0D-99E3-4561-B0C8-302E3B65E7B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8_T3_BelieveOrNotBelieve", "CSharpBasics\Webinar_8\W8_T3_BelieveOrNotBelieve\W8_T3_BelieveOrNotBelieve.csproj", "{430D333E-3250-483F-B117-23456BA28962}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -227,6 +229,10 @@ Global
 		{67588F0D-99E3-4561-B0C8-302E3B65E7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67588F0D-99E3-4561-B0C8-302E3B65E7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67588F0D-99E3-4561-B0C8-302E3B65E7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{430D333E-3250-483F-B117-23456BA28962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430D333E-3250-483F-B117-23456BA28962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430D333E-3250-483F-B117-23456BA28962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430D333E-3250-483F-B117-23456BA28962}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -274,6 +280,7 @@ Global
 		{7B8FAD73-55CA-4E7F-91B9-B4FC1606CE8C} = {081C841B-9807-4D97-B395-83B59D0E7F1D}
 		{D9DBA511-97FA-4E07-8465-4B9C593B11EF} = {7B8FAD73-55CA-4E7F-91B9-B4FC1606CE8C}
 		{67588F0D-99E3-4561-B0C8-302E3B65E7B5} = {7B8FAD73-55CA-4E7F-91B9-B4FC1606CE8C}
+		{430D333E-3250-483F-B117-23456BA28962} = {7B8FAD73-55CA-4E7F-91B9-B4FC1606CE8C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {97A31556-E067-4D60-91B4-208355B4A289}
