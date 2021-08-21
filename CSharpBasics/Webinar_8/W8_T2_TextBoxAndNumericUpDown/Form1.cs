@@ -2,6 +2,13 @@
 
 namespace W8_T2_TextBoxAndNumericUpDown
 {
+    /*
+     Работа Долгова Константина
+
+    Вебинар 8. Задача 2.
+    Создайте простую форму на котором свяжите свойство 
+    Text элемента TextBox со свойством Value элемента NumericUpDown
+     */
     public partial class Form1 : Form
     {
         public Form1()
