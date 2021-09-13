@@ -1,5 +1,8 @@
-﻿namespace W6_T3_Student
+﻿using System;
+
+namespace W6_T3_Student
 {
+
     class Student
     {
         public string firstName;
